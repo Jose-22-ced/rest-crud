@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rest-crud/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/rest-crud/static/js/main.22ffa78f.chunk.js",
-    "main.js.map": "/rest-crud/static/js/main.22ffa78f.chunk.js.map",
+    "main.js": "/rest-crud/static/js/main.78b5fa1e.chunk.js",
+    "main.js.map": "/rest-crud/static/js/main.78b5fa1e.chunk.js.map",
     "runtime-main.js": "/rest-crud/static/js/runtime-main.baf7da54.js",
     "runtime-main.js.map": "/rest-crud/static/js/runtime-main.baf7da54.js.map",
     "static/css/2.a8d550af.chunk.css": "/rest-crud/static/css/2.a8d550af.chunk.css",
     "static/js/2.50941af8.chunk.js": "/rest-crud/static/js/2.50941af8.chunk.js",
     "static/js/2.50941af8.chunk.js.map": "/rest-crud/static/js/2.50941af8.chunk.js.map",
     "index.html": "/rest-crud/index.html",
-    "precache-manifest.85abc6d55fafac72e3470a835fb330ab.js": "/rest-crud/precache-manifest.85abc6d55fafac72e3470a835fb330ab.js",
+    "precache-manifest.9e6051202133e692b4176e6f58c23c37.js": "/rest-crud/precache-manifest.9e6051202133e692b4176e6f58c23c37.js",
     "service-worker.js": "/rest-crud/service-worker.js",
     "static/css/2.a8d550af.chunk.css.map": "/rest-crud/static/css/2.a8d550af.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/rest-crud/static/css/main.5ecd60fb.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.a8d550af.chunk.css",
     "static/js/2.50941af8.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.22ffa78f.chunk.js"
+    "static/js/main.78b5fa1e.chunk.js"
   ]
 }
